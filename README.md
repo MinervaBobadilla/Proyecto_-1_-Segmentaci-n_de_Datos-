@@ -1,2 +1,2 @@
-# Proyecto_-1_-Segmentaci-n_de_Datos-
-En este proyecto se centró en  un análisis de datos para una tienda especializada en productos alimenticios , utilizando el proceso de Análisis de Datos y desarrollando la metodología  de RFM. 
+
+![image](https://github.com/user-attachments/assets/734270ce-f549-40f2-8c8a-67b15f9e4a74)
